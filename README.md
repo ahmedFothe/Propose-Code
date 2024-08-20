@@ -1,4 +1,4 @@
-# just for fun 
+# Create Just for Fun 
 
 ### Html markup
 ```html
